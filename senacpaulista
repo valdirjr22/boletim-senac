@@ -5,7 +5,7 @@
     <title>Gerenciador de Notas de Boletim - MÉDIOTEC</title>
     <style>
          html, body { /* Adicionado para garantir que html e body ocupem 100% da largura */
-            width: 100%;
+            width: 200%;
             margin: 0; /* Garantir que não há margem padrão */
             padding: 0; /* Garantir que não há padding padrão */
         }
