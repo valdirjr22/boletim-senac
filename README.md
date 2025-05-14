@@ -5,7 +5,7 @@
     <title>Gerenciador de Notas de Boletim - MÉDIOTEC</title>
     <style>
          html, body { /* Adicionado para garantir que html e body ocupem 100% da largura */
-            width: 200%;
+            width: 100%;
             margin: 0; /* Garantir que não há margem padrão */
             padding: 0; /* Garantir que não há padding padrão */
         }
@@ -414,7 +414,7 @@
 
              /* Styles for the generated bulletin table */
              .bulletin-table {
-                 width: 200%;
+                 width: 100%;
                  border-collapse: collapse;
                  margin-top: 15px;
              }
@@ -478,7 +478,7 @@
 
 
              /* Page Margins */
-              @page { size: A4; margin: 1.5cm; } /* Define page margins */
+              @page { size: A4; margin: 2.5cm; } /* Define page margins */
               body { padding: 0; } /* Remove body padding if margin is defined in @page */
 
               /* Ensure editable cell content is printed */
