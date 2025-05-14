@@ -35,7 +35,7 @@
             padding-bottom: 5px;
         }
         table {
-            width: 100%;
+            width: 200%;
             border-collapse: collapse;
             margin-top: 20px;
         }
