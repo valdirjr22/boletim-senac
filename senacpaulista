@@ -478,7 +478,7 @@
 
 
              /* Page Margins */
-              @page { size: A4; margin: 5.5cm; } /* Define page margins */
+              @page { size: A4; margin: 1.5cm; } /* Define page margins */
               body { padding: 0; } /* Remove body padding if margin is defined in @page */
 
               /* Ensure editable cell content is printed */
