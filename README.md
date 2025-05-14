@@ -414,7 +414,7 @@
 
              /* Styles for the generated bulletin table */
              .bulletin-table {
-                 width: 100%;
+                 width: 200%;
                  border-collapse: collapse;
                  margin-top: 15px;
              }
